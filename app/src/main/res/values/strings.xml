@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">app_kotlin_wheather</string>
+    <string name="createcity.title">New city name ?</string>
+    <string name="createcity.negative">Cancel</string>
+    <string name="createcity.positive">Create city</string>
+    <string name="createcity.hint">New york, London, ...</string>
 </resources>
